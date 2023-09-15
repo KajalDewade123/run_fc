@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "698305738852",
+    "project_id": "run-fc",
+    "storage_bucket": "run-fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:698305738852:android:8fb025c525407588c7c771",
+        "android_client_info": {
+          "package_name": "com.example.run_fc"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnMP59nvI7zUcDZm_VXvPXa7eOTcsMYts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
